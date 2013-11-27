@@ -1,0 +1,30 @@
+
+#main .fields_list {
+    list-style-type: none;
+}
+
+#main .fields_list h3 {
+    background: #FFFFFF;
+    color: #7BA428;
+    font-size: 1.4em;
+}
+
+#main .fields_list img{
+    background: #FFFFFF;
+    float: right;
+    padding: 5px;
+
+}
+
+#main .fields_list li{
+    background: none repeat scroll 0 0 #E8E8E8;
+    font-weight: bold;
+    width: 300px;
+    border: 1px solid black;
+}
+
+#main .fields_list p{
+    background: #FFFFFF;
+    font-weight: 200;
+    margin: 0;
+    padding: 7px 4px 7px 15px;
